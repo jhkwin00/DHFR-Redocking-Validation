@@ -1,0 +1,7 @@
+pdbid	status	native_heavy_atom_count	docked_heavy_atom_count	murcko_scaffold_heavy_atom_count	scaffold_fraction_native	scaffold_fraction_docked	native_scaffold_match_count	docked_scaffold_match_count	mapping_pairs_tested	direct_scaffold_rmsd_angstrom	aligned_scaffold_rmsd_angstrom	murcko_scaffold_smiles	interpretation
+1KMV	ok	25	25	18	0.720	0.720	1	1	1	4.455	3.991	C1CCC(CCC2CN[C@@H]3NCNC[C@H]3C2)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.
+3FS6	ok	25	25	13	0.520	0.520	1	1	1	4.527	3.423	C1CCC(CC2CNCNC2)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.
+3NTZ	ok	35	35	21	0.600	0.600	1	1	1	5.420	4.508	C1CCC(NCC2CCCC3S[C@@H]4NCNC[C@@H]4[C@H]23)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.
+3NXO	ok	24	24	17	0.708	0.708	1	1	1	3.907	3.850	C1CCC(CC[C@H]2CO[C@H]3NCNC[C@H]23)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.
+4M6K	ok	32	32	18	0.562	0.562	1	1	1	3.836	3.054	C1CCC(NC[C@H]2CNC3NCNCC3N2)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.
+5HSR	ok	21	21	16	0.762	0.762	1	1	1	4.543	4.133	C1CCC(S[C@H]2C[C@H]3CNCN[C@@H]3S2)CC1	Scaffold excludes terminal substituent(s); direct scaffold RMSD is a tail-reduced pose metric.

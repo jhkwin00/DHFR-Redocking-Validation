@@ -1,0 +1,8 @@
+/home/jhkwi/miniconda3/envs/dhfr_vina/lib/python3.11/site-packages/meeko/polymer.py:856: RuntimeWarning: Input residues {'A:188': 'NDP'} not in residue_templates
+
+  warnings.warn(err, RuntimeWarning)
+/home/jhkwi/miniconda3/envs/dhfr_vina/lib/python3.11/site-packages/meeko/polymer.py:857: RuntimeWarning: Trying to resolve unknown residues by building chemical templates... 
+  warnings.warn("Trying to resolve unknown residues by building chemical templates... ", RuntimeWarning)
+
+Files written:
+results/stage4_vina_redocking/receptor_pdbqt/3FS6_receptor.pdbqt <-- static (i.e., rigid) receptor input file

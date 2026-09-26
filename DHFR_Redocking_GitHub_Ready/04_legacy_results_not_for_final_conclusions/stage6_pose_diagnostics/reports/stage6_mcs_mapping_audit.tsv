@@ -1,0 +1,7 @@
+pdbid	status	native_heavy_atom_count	docked_heavy_atom_count	mcs_atom_count	mcs_fraction_of_smaller_ligand	mcs_method	native_mcs_match_count	docked_mcs_match_count	mapping_pairs_tested	best_direct_mcs_rmsd_angstrom	best_aligned_mcs_rmsd_angstrom	interpretation
+1KMV	ok	25	25	25	1.000	exact_bond_order	1	1	1	4.601	4.601	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.
+3FS6	ok	25	25	25	1.000	exact_bond_order	1	1	1	4.242	4.241	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.
+3NTZ	ok	35	35	35	1.000	exact_bond_order	1	1	1	5.804	5.799	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.
+3NXO	ok	24	24	24	1.000	exact_bond_order	1	1	1	4.118	4.107	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.
+4M6K	ok	32	32	32	1.000	exact_bond_order	1	1	1	4.164	4.164	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.
+5HSR	ok	21	21	21	1.000	exact_bond_order	1	1	1	4.454	4.454	MCS covers essentially the entire ligand; MCS is not a tail-excluding core definition.

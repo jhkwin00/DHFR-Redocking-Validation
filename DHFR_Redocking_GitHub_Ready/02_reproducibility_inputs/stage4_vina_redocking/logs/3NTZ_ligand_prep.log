@@ -1,0 +1,5 @@
+mk_prepare_ligand.py -i results/stage3_rdkit_ligand_prep/sdf_h/3NTZ_ligand_only_H.sdf -o results/stage4_vina_redocking/ligand_pdbqt/3NTZ_ligand.pdbqt
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0

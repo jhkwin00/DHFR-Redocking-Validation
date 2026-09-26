@@ -1,0 +1,9 @@
+mk_prepare_receptor.py --read_pdb results/prepared_structures/4M6K_receptor.pdb -o results/stage4_vina_redocking/receptor_pdbqt/4M6K_receptor -p --default_altloc A 
+/home/jhkwi/miniconda3/envs/dhfr_vina/lib/python3.11/site-packages/meeko/polymer.py:856: RuntimeWarning: Input residues {'A:202': 'NAP'} not in residue_templates
+
+  warnings.warn(err, RuntimeWarning)
+/home/jhkwi/miniconda3/envs/dhfr_vina/lib/python3.11/site-packages/meeko/polymer.py:857: RuntimeWarning: Trying to resolve unknown residues by building chemical templates... 
+  warnings.warn("Trying to resolve unknown residues by building chemical templates... ", RuntimeWarning)
+
+Files written:
+results/stage4_vina_redocking/receptor_pdbqt/4M6K_receptor.pdbqt <-- static (i.e., rigid) receptor input file

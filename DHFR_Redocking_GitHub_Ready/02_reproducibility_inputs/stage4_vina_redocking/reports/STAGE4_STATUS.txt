@@ -1,0 +1,4 @@
+Stage 4 Vina redocking completed.
+Final summary: vina_redocking_summary_v2_final.tsv
+3FS6 affinity recovered from docked PDBQT because vina log was truncated.
+Next step: Stage 5 RMSD-based pose QC.

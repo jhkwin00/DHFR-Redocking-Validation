@@ -1,0 +1,7 @@
+pdbid	status	closest_vina_rank_to_legacy_stage5_file	closest_pdbqt_model_number	legacy_to_closest_model_rmsd_angstrom	legacy_identity_conclusion
+1KMV	ok	14	14	3.901279	legacy_stage5_file_does_not_exactly_match_any_model
+3FS6	ok	3	3	3.191557	legacy_stage5_file_does_not_exactly_match_any_model
+3NTZ	ok	3	3	6.138728	legacy_stage5_file_does_not_exactly_match_any_model
+3NXO	ok	11	11	4.284198	legacy_stage5_file_does_not_exactly_match_any_model
+4M6K	ok	3	3	3.861357	legacy_stage5_file_does_not_exactly_match_any_model
+5HSR	ok	12	12	2.252384	legacy_stage5_file_does_not_exactly_match_any_model

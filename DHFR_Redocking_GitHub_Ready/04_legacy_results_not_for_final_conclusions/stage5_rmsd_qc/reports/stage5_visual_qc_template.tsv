@@ -1,0 +1,7 @@
+pdbid	vina_affinity_kcal_mol	rmsd_heavy_atom_angstrom	same_binding_pocket	core_overlap	orientation_match	tail_match	visual_class	overall_judgment	notes
+1KMV	-10.5	4.601	yes	moderate	poor	moderate	same_pocket_rotated	site_recovered_pose_poor	same pocket, noticeable orientation mismatch
+3FS6	-8.6	4.217	yes	moderate	moderate	poor	core_overlap_tail_shifted	partial_pose_recovery	core overlap present, substituent/tail mismatch
+3NTZ	-10.3	5.688	yes	poor	poor	moderate	same_pocket_rotated	site_recovered_pose_poor	same pocket, pose noticeably different
+3NXO	-10.1	3.978	yes	moderate	moderate	poor	core_overlap_tail_shifted	partial_pose_recovery	core overlap present, substituent mismatch
+4M6K	-9.5	4.128	yes	moderate	poor	moderate	same_pocket_rotated	site_recovered_pose_poor	same pocket, noticeable orientation mismatch
+5HSR	-10.4	4.454	yes	moderate	moderate	moderate	core_overlap_tail_shifted	partial_pose_recovery	same pocket, partial core overlap with modest pose mismatch

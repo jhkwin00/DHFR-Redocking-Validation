@@ -1,0 +1,7 @@
+pdbid	status	total_models_analyzed	top1_model_number	top1_affinity_kcal_mol	top1_native_rmsd_angstrom	best_native_rmsd_among_models_angstrom	rank_of_best_native_rmsd	model_of_best_native_rmsd	affinity_of_best_native_rmsd_kcal_mol	native_like_model_count_at_2A	first_native_like_rank_at_2A	interpretation
+1KMV	ok	20	1	-10.500	0.212	0.212	1	1	-10.500	5	1	top1_native_like_pose_recovered
+3FS6	ok	20	1	-8.600	1.226	1.226	1	1	-8.600	3	1	top1_native_like_pose_recovered
+3NTZ	ok	20	1	-10.300	4.294	2.118	4	4	-9.800	0		no_native_like_pose_among_reported_vina_poses_under_current_docking_setup
+3NXO	ok	20	1	-10.100	1.723	1.641	2	2	-10.000	2	1	top1_native_like_pose_recovered
+4M6K	ok	20	1	-9.500	1.036	0.989	2	2	-9.500	3	1	top1_native_like_pose_recovered
+5HSR	ok	19	1	-10.400	2.229	0.956	7	7	-8.400	5	3	native_like_pose_sampled_but_ranked_below_top1

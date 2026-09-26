@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/jhkwi/miniconda3/envs/dhfr_rdkit/bin/mk_prepare_ligand.py", line 10, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/jhkwi/miniconda3/envs/dhfr_rdkit/lib/python3.11/site-packages/meeko/cli/mk_prepare_ligand.py", line 552, in main
+    preparator = MoleculePreparation.from_config(config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jhkwi/miniconda3/envs/dhfr_rdkit/lib/python3.11/site-packages/meeko/preparation.py", line 227, in from_config
+    p = cls(**config)
+        ^^^^^^^^^^^^^
+  File "/home/jhkwi/miniconda3/envs/dhfr_rdkit/lib/python3.11/site-packages/meeko/preparation.py", line 142, in __init__
+    self.atom_params = self.get_atom_params(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jhkwi/miniconda3/envs/dhfr_rdkit/lib/python3.11/site-packages/meeko/preparation.py", line 356, in get_atom_params
+    raise ValueError(msg)
+ValueError: names passed to 'load_atom_params' need to suffixed with .json
+or be the unsuffixed basename of a JSON file in /home/jhkwi/miniconda3/envs/dhfr_rdkit/lib/python3.11/site-packages/meeko/data/params.
+name was ad4_types

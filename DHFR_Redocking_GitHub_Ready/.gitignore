@@ -1,0 +1,35 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter-generated checkpoints
+.ipynb_checkpoints/
+
+# Local Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Redundant or incomplete intermediate Stage 4 report files
+/02_reproducibility_inputs/stage4_vina_redocking/reports/vina_redocking_summary_v2.tsv
+/02_reproducibility_inputs/stage4_vina_redocking/reports/vina_redocking_summary_v2_incomplete_backup.tsv
+/02_reproducibility_inputs/stage4_vina_redocking/reports/vina_redocking_summary_v2_recovered.tsv

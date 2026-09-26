@@ -1,0 +1,14 @@
+receptor = results/stage4_vina_redocking/receptor_pdbqt/5HSR_receptor.pdbqt
+ligand = results/stage4_vina_redocking/ligand_pdbqt/5HSR_ligand.pdbqt
+
+center_x = -3.736
+center_y = 16.367
+center_z = 0.237
+
+size_x = 22
+size_y = 22
+size_z = 22
+
+exhaustiveness = 16
+num_modes = 20
+energy_range = 4

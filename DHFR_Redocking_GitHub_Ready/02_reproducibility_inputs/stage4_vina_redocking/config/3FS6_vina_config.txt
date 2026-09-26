@@ -1,0 +1,14 @@
+receptor = results/stage4_vina_redocking/receptor_pdbqt/3FS6_receptor.pdbqt
+ligand = results/stage4_vina_redocking/ligand_pdbqt/3FS6_ligand.pdbqt
+
+center_x = -1.073
+center_y = 15.745
+center_z = -0.681
+
+size_x = 22
+size_y = 22
+size_z = 22
+
+exhaustiveness = 16
+num_modes = 20
+energy_range = 4

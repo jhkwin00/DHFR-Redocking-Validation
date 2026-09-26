@@ -1,0 +1,21 @@
+close all
+open "\\wsl.localhost\Ubuntu\home\jhkwi\lab_prep\DHFR_project\results\prepared_structures\3NXO_receptor.pdb"
+open "\\wsl.localhost\Ubuntu\home\jhkwi\lab_prep\DHFR_project\results\stage2_ligand_extraction\ligand_only\3NXO_ligand_only.pdb"
+open "\\wsl.localhost\Ubuntu\home\jhkwi\lab_prep\DHFR_project\results\stage5_rmsd_qc\docked_top1\3NXO_top1_heavy_from_pdbqt.sdf"
+
+hide all models
+show #1 cartoons
+hide #1 atoms
+show #2 models
+show #3 models
+
+style #2 stick
+style #3 stick
+
+color #1 gray
+color #2 cyan
+color #3 yellow
+
+label off
+set bgColor white
+view

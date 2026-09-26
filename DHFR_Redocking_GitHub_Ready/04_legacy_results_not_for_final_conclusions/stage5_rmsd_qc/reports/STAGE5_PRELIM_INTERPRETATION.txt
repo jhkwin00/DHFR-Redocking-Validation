@@ -1,0 +1,12 @@
+Stage 5 preliminary RMSD summary:
+- Heavy-atom RMSD values for top1 docked poses range from 3.978 to 5.688 A.
+- All six systems are above the typical successful redocking threshold (< 2 A).
+- These values suggest poor pose recovery overall.
+- However, final interpretation requires PyMOL visual inspection because RMSD was computed from PDBQT-derived coordinates and may still be affected by atom mapping/order limitations.
+Priority visual inspection order:
+1) 3NTZ
+2) 3NXO
+3) 1KMV
+4) 3FS6
+5) 4M6K
+6) 5HSR
